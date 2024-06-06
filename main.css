@@ -1,0 +1,164 @@
+    .navbar{background: black;
+    color: white;
+    height: 145px;
+    border-radius: 3px;
+    padding: 0px;
+}
+        
+.purchasebtn{
+            background: linear-gradient(45deg, black, transparent);
+    color: white;
+    width: 100%;
+    height: 40px;
+        }  .loadmorebtn{
+            background: linear-gradient(45deg, black, transparent);
+    color: white;
+    width: 100%;
+    height: 40px;
+        }
+.appcard {
+    background: white;
+    border: 1px solid black;
+    margin: 0.2%;
+    padding: 2%;
+}
+.appcard img {
+    width: 100%;
+    height: 70%;
+}
+        .rightsidemenu{
+            float: right;
+            text-align: right;
+        }a{
+        color:white;
+       }body{
+        background: whitesmoke;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       }footer{
+        background:black;
+        color: white;
+        padding: 2%;
+       }.dsbox{
+        background: gray;
+        margin: 0.2%;
+        padding: 0.5%;
+        border: 2px solid black;
+       }.imgbox{
+            background: linear-gradient(45deg, black, #8787ff);
+    border: 2px solid black;
+    padding: 1%;
+    color: white;
+
+       }.imgbox img{
+        border: 2px solid black;
+       }.sysbox{
+        background: lavender;
+        border: 1px solid black;
+        padding: 1%;
+       
+ 
+    }a:hover {
+    color: #8787ff;
+}footer:hover {
+    background: linear-gradient(45deg, black, transparent);
+}nav.navbar:hover {
+    background: linear-gradient(45deg, #222263, transparent);
+}.mybtn{background: #1eff78;
+    color: white;
+    border: 5px solid black;
+    border-radius: 1px;
+    height: 34px;}
+    ul{
+        list-style: none;
+    }.appcard:hover {
+    box-shadow: 0px 1px 5px 5px #8989c5;
+    border: 5px solid #8989c5;
+    transition: 2s border;
+}button.purchasebtn:hover {
+    box-shadow: 1px 1px 1px black;
+    background: linear-gradient(45deg, #8989c5, transparent);
+    transition: 3s background;
+    border: 5px solid black;
+}.loadmorebtn:hover {
+    background: linear-gradient(45deg, #8989c5, transparent);
+    transition: 3s background;
+
+    box-shadow: 1px -1px 3px 2px #0d0d6382;
+    border: 5px #5454fff5;
+}input#username {
+    background: #ffffffc7;
+    height: 30px;
+    border-radius: 50px;
+    font-size: 15px;
+}input.ux-login {
+    width: 125px;
+    background: linear-gradient(45deg, #5555ff, transparent);
+    height: 30px;
+    color: white;
+    border-radius: 50px;
+    font-size: 15px;
+    box-shadow: 0px 1px 3px 2px black;
+}input.ux-login:hover {
+    transition: border 1s;
+    border: 5px solid #2d2dff82;
+    box-shadow: -1px 1px 1px 1px #2d2dff82;
+}
+img.logo {
+    background: linear-gradient(45deg, black, transparent);
+    width: 100px;
+    box-shadow: 1px 2px 7px white;
+    border-radius: 80px;
+    margin: 5px;
+}.imgbox img:hover {
+    width: 35%;
+    height: 60%;
+    border-color: #c4c4fd;
+    box-shadow: -1px 0px 3px 1px black;
+    transition: 1s border;
+    animation: border;
+    animation-delay: 1s;
+    animation-direction: alternate-reverse;
+    animation-fill-mode: backwards;
+}.dsbox {
+    background: linear-gradient(45deg, black, #92c5dd);
+    margin: 0.2%;
+    padding: 0.5%;
+    border: 2px solid black;
+    color: white;
+    font-size: large;
+    font-family: ui-monospace;
+}.dsbox:hover {
+    background: linear-gradient(178deg, black, #c4c4fd);
+    animation: 3s background;
+    animation-delay: 3s;
+    box-shadow: 0px 0px 4px 3px gray;
+    border: none;
+}li.tag-opt:hover {
+    background: linear-gradient(45deg, #4444ff, transparent);
+    box-shadow: -1px 1px 1px 1px black;
+}li.tag-opt {
+    margin: 2px;
+    background: linear-gradient(45deg, black, transparent);
+    color: white;
+    border: 2px solid lavender;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px gray;
+}body {
+    background: linear-gradient(45deg, #222263, transparent);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+	table {
+    color: black;
+}img.socialmedialink {
+    width: 50px;
+    height: 50px;
+    background: white;
+    border: 1px solid;
+    border-radius: 50px;
+}img.socialmedialink:hover {
+    box-shadow: 1px 0px 3px 2px white;
+}
+	
+	</style>
